@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29375916463",
+    "firebase_url": "https://androideaton.firebaseio.com",
+    "project_id": "androideaton",
+    "storage_bucket": "androideaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29375916463:android:1267931f67c9bdb3",
+        "android_client_info": {
+          "package_name": "com.example.jatinparab.eaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29375916463-bjvur1uk5c0ff61ra76b0djong91asdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jatinparab.eaton",
+            "certificate_hash": "8600fb456d75fa3e5d3f214d0e1cd73533195140"
+          }
+        },
+        {
+          "client_id": "29375916463-fspjp5162assfjg3tfjnp0m676v10jsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxav4FVm4lN4Eqn1V0CefDgq-M6oXNbeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29375916463-fspjp5162assfjg3tfjnp0m676v10jsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
